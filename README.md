@@ -93,35 +93,3 @@ REACT_APP_ABUSE_API_KEY=your_abuseipdb_key
 
 MIT — Free to use, modify and share with attribution.
 
----
-
-⭐ **Star this repo if it helped you — it helps other SOC analysts find it!**
-```
-
-**5.** Scroll down → Click **"Commit changes"** → Click **"Commit directly to main"** → Click green **"Commit changes"** button
-
----
-
-### Fix 2 — Delete README.old.md on GitHub
-
-**1.** Go to → **https://github.com/subhankarbhndr211/phishunter-pro-soc-tool/blob/main/README.old.md**
-
-**2.** Click the **three dots menu ···** (top right)
-
-**3.** Click **"Delete file"**
-
-**4.** Click **"Commit changes"** → **"Commit directly to main"** → green button
-
----
-
-### Fix 3 — Add Your Tool Code on GitHub
-
-**1.** Go to → **https://github.com/subhankarbhndr211/phishunter-pro-soc-tool**
-
-**2.** Click **"src"** folder → Click **"components"** folder
-
-**3.** Click **"Add file"** → **"Create new file"**
-
-**4.** In the filename box type:
-```
-PhishingAnalyzer.jsx
